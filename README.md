@@ -31,7 +31,10 @@ This project compares two Machine Learning models — **Logistic Regression** an
 | Logistic Regression | 0.9561 |
 | Random Forest | **0.9649** ✅ (Best) |
 
+
 ## 📁 Folder Structure
+
+```
 Disease-Prediction/
 ├── app.py
 ├── train_model.py
@@ -41,14 +44,16 @@ Disease-Prediction/
 ├── .gitignore
 ├── LICENSE
 ├── model/
-│ └── disease_model.pkl
+│   └── disease_model.pkl
 ├── notebooks/
-│ └── exploration.ipynb
+│   └── exploration.ipynb
 ├── images/
 └── src/
-├── preprocessing.py
-├── evaluation.py
-└── utils.py
+    ├── preprocessing.py
+    ├── evaluation.py
+    └── utils.py
+```
+
 ## ⚙️ Installation
 
 ```bash
@@ -83,7 +88,7 @@ The Random Forest model achieved **96.49% accuracy** on the test set, outperform
 
 ## 👤 Author
 
-**[Sameer]**  
+**Sameer**  
 CodeAlpha Machine Learning Internship
 
 ## 📄 License
