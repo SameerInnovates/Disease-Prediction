@@ -64,10 +64,6 @@ venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-## 📸 Screenshots
-
-_(Add screenshots here — see the screenshot checklist)_
-
 ## ▶️ How to Run
 
 ```bash
